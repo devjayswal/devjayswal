@@ -42,14 +42,12 @@
 <br>
 <br>
 
-<div style="display: inline-block; width: 33.33%;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjayswal&show_icons=true&locale=en&layout=compact" alt="devjayswal" />
-</div>
-
-<div style="display: inline-block; width: 33.33%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devjayswal&show_icons=true&locale=en" alt="devjayswal" />
-</div>
-
-<div style="display: inline-block; width: 33.33%;">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devjayswal&" alt="devjayswal" />
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjayswal&show_icons=true&locale=en&layout=compact" alt="devjayswal" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=devjayswal&show_icons=true&locale=en" alt="devjayswal" /></p>
+  </div>
+  <div style="display: inline-block;">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devjayswal&" alt="devjayswal" /></p>
+  </div>
 </div>
