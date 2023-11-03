@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP and LLM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devjayswal](https://github.com/devjayswal)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/devjayswal)
 
-- 📝 I regularly post my updates on [https://www.linkedin.com/in/dev-jayswal-mits/](https://www.linkedin.com/in/dev-jayswal-mits/)
+- 📝 I regularly post my updates on [LinkDin](https://www.linkedin.com/in/dev-jayswal-mits/)
 
 - 💬 Ask me about **ML and AI, React.js, Web dev, DSA**
 
 - 📫 How to reach me **rdssjayswal@gmail.com**
 
-- 📄 Know about my experiences [www.example.com](www.example.com)
+- 📄 Know about my experiences [Resume](www.example.com)
 
 - ⚡ Motivational mantra **Let the Magic Begin!!**
 
