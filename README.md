@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjayswal&label=Profile%20views&color=0e75b6&style=flat" alt="devjayswal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjayswal" alt="devjayswal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/devjayswal9589" target="blank"><img src="https://img.shields.io/twitter/follow/devjayswal9589?logo=twitter&style=for-the-badge" alt="devjayswal9589" /></a> </p>
 
 - 🔭 I’m currently studying at [MITS Gwalior.](https://web.mitsgwalior.in/)
