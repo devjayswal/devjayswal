@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Jayswal</h1>
 <h3 align="center">An AI & ML Developer Harnessing the Power of Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjayswal&label=Profile%20views&color=0e75b6&style=flat" alt="devjayswal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devjayswal&label=Profile%20views&color=0e75b6&style=flat" alt="devjayswal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjayswal" alt="devjayswal" /></a> </p>
 
