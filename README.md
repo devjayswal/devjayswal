@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/devjayswal)
 
-- 📝 I regularly post my updates on [LinkDin](https://www.linkedin.com/in/dev-jayswal-mits/)
+- 📝 I regularly post my updates on [LinkeDin](https://www.linkedin.com/in/dev-jayswal-mits/)
 
 - 💬 Ask me about **ML and AI, React.js, Web dev, DSA**
 
