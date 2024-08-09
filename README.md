@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rdssjayswal@gmail.com**
 
-- 📄 Know about my experiences [Resume](www.example.com)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/143Ody2WfR60et4ii0FG6_agMWVOpndmK/view?usp=sharing)
 
 - ⚡ Motivational mantra **Let the Magic Begin!!**
 
